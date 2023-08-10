@@ -1,0 +1,51 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/hypotension-drugs-bronchospasm---primary.py
+inputModule3:
+  class: File
+  path: python/hypotension-drugs-bradycardia---primary.py
+inputModule4:
+  class: File
+  path: python/hypotension-drugs---primary.py
+inputModule5:
+  class: File
+  path: python/hypotension-drugs-mphaeochromocytoma---primary.py
+inputModule6:
+  class: File
+  path: python/hypotension-drugs-acidosis---primary.py
+inputModule7:
+  class: File
+  path: python/orthostatic-hypotension-drugs---primary.py
+inputModule8:
+  class: File
+  path: python/hypotension-drugs-sinus---primary.py
+inputModule9:
+  class: File
+  path: python/hypotension---primary.py
+inputModule10:
+  class: File
+  path: python/fetal-hypotension-drugs---primary.py
+inputModule11:
+  class: File
+  path: python/maternal-hypotension-drugs---primary.py
+inputModule12:
+  class: File
+  path: python/hypotension-drugs-unspecified---primary.py
+inputModule13:
+  class: File
+  path: python/hypotension-drugs-delivered---primary.py
+inputModule14:
+  class: File
+  path: python/hypotension-drugs-problem---primary.py
+inputModule15:
+  class: File
+  path: python/hypotension-drugs-phaeochromocytoma---primary.py
+inputModule16:
+  class: File
+  path: python/postural-hypotension-drugs---primary.py
+inputModule17:
+  class: File
+  path: python/output-cases.py
